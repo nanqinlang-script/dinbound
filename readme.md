@@ -15,5 +15,5 @@ bash dinbound.sh
 ```
 
 ## according
-https://sometimesnaive.org/article/linux/software/dingo.html  
-https://sometimesnaive.org/article/linux/software/unbound.html
+https://sometimesnaive.org/article/linux/software/dingo  
+https://sometimesnaive.org/article/linux/software/unbound
